@@ -1,0 +1,25 @@
+{
+  "name": "hexo-next-list-related-posts",
+  "version": "1.0.0",
+  "description": "A hexo plugin that generates a list of related posts on The Theme Next.",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jixiaod/hexo-next-list-related-posts.git"
+  },
+  "keywords": [
+    "hexo", 
+    "next",
+    "related-post"
+  ],
+  "author": "bzfxd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jixiaod/hexo-next-list-related-posts/issues"
+  },
+  "homepage": "https://github.com/jixiaod/hexo-next-list-related-posts#readme",
+  "dependencies": {
+    "lodash.assign": "^3.2.0",
+    "striptags": "^2.1.1"
+  }
+}
