@@ -2,6 +2,9 @@
 
 A hexo plugin that generates a list of related posts on The Theme Next.
 
+## Demo
+[http://blog.100dos.com/2017/04/07/php-garbage-collection-collect-cycles/](http://blog.100dos.com/2017/04/07/php-garbage-collection-collect-cycles/)
+
 ## Install
 
 ```sh
